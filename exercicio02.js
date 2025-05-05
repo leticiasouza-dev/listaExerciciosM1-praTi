@@ -3,7 +3,7 @@
 //controle if-else.
 import entradaDeDados from 'readline-sync'
 
-console.log('--------------------BEM-VINDO AO VERIFICADOR DE IDADE--------------------')
+console.log('--------------------BEM-VINDO (a) AO VERIFICADOR DE IDADE--------------------')
 let idade = entradaDeDados.questionInt('Digite a sua idade: ')
 
 if(idade <= 11){

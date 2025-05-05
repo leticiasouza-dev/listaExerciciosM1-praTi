@@ -2,7 +2,7 @@
 
 import entradaDeDados from 'readline-sync'
 
-console.log('--------------------BEM-VINDO AO VERIFICADOR DE VALORes PARES E IMPARES--------------------')
+console.log('--------------------BEM-VINDO (a) AO VERIFICADOR DE VALORes PARES E IMPARES--------------------')
 let valor = entradaDeDados.questionInt('Digite um valor do tipo inteiro: ')
 
 if(valor % 2 == 0){
